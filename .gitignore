@@ -7,4 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 
-/Users/jagman/IdeaProjects/TodoList/src/main/resources/secrets.properties
+# Exclude secrets.properties file
+src/main/resources/secrets.properties
